@@ -1,4 +1,4 @@
-# Sistema CRUD em Java (Desktop)
+8# Sistema CRUD em Java (Desktop)
 
 Este projeto é uma aplicação desktop simples desenvolvida em **Java** utilizando **Swing** para a interface gráfica e **MySQL** como banco de dados relacional. O objetivo é implementar um sistema completo de **Cadastro, Leitura, Atualização e Remoção (CRUD)** de clientes, aplicando os princípios da **programação orientada a objetos**.
 
@@ -94,7 +94,7 @@ CREATE TABLE clientes (
 * Eclipse IDE (ou outra IDE Java)
 * Driver JDBC do MySQL (mysql-connector-java)
 
-## 👥 Autores
+## Autores
 
 * **Emilly Lima da Paz** – 242970012
 * **Guilherme Trombini** – 242976502
@@ -107,6 +107,6 @@ CREATE TABLE clientes (
 
 ---
 
-## 📚 Licença
+## Licença
 
 Projeto acadêmico sem fins comerciais, desenvolvido para fins didáticos e de prática em Java Desktop com integração a banco de dados.
